@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jatis</string>
+    <string name="search_here">Search here</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="general">General</string>
+    <string name="health">health</string>
+    <string name="science">science</string>
+    <string name="category">Category</string>
+</resources>
