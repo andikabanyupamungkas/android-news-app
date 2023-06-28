@@ -1,6 +1,5 @@
 package com.example.jatis.di
 
-import androidx.multidex.BuildConfig
 import com.example.jatis.repository.Repository
 import com.example.jatis.usecase.GetSourcesUseCase
 import com.example.jatis.usecase.GetTopHeadLineUseCase
